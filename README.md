@@ -3,14 +3,14 @@
 This code is associated with the NAACL 2024 Findings paper: **"When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models"**. If you use this code or the results from our paper, please cite:
 
 ```
-@misc{li2024hindsight2020testinglimits,
-      title={When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models}, 
-      author={Yanhong Li and Chenghao Yang and Allyson Ettinger},
-      year={2024},
-      eprint={2404.09129},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2404.09129}, 
+@inproceedings{li-etal-2024-hindsight,
+    title = "When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models",
+    author = "Li, Yanhong  and Yang, Chenghao  and Ettinger, Allyson",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2024",
+    month = jun,
+    year = "2024",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-naacl.237"
 }
 ```
 
