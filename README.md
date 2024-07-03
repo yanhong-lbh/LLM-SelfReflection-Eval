@@ -1,4 +1,4 @@
-# self-ref-priv
+# LLM-SelfReflection-Eval 
 
 This code is associated with the NAACL 2024 Findings paper: **"When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models"**. If you use this code or the results from our paper, please cite:
 
